@@ -1,0 +1,1 @@
+Raw data files, r script code and figure outputs for Thomson‐Laing, G., Howarth, J.D., Atalah, J., Vandergoes, M.J., Rees, A., Steiner, K., Thomson‐Laing, J. and Wood, S.A., 2023. Detection of fish and mussel DNA in lake sediment cores depends on location, species, and molecular method. Environmental DNA, 5(6), pp.1484-1504.
